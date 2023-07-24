@@ -7,6 +7,9 @@
 </head>
 <body>
     <h2>Hello world!</h2>
+    <ul>
+        <li>satu<li>
+    </ul>
     <p>loremp</p>
 </body>
 </html>
